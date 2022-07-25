@@ -11,6 +11,9 @@ Maria from the city school district requires an update on the school district da
 Based on the results below, the district summary was not impacted.
 ![image](/Results/1DS.png)
 ### How is the school summary affected?
+
+![image2](/Results/2SS.png)
+
 ### How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 ### How does replacing the ninth-grade scores affect the following:
 ### Math and reading scores by grade
