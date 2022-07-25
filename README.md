@@ -5,7 +5,7 @@ Module 4-Anaconda
 Maria from the city school district requires an update on the school district data. This is due to the occurrence of an alteration in Thomas High School's ninth grade scores. An update of the math and reading scores will be carried out by relpacing all ninth grader values in Thomas High School with null (NaN). This will result in cleaned data which analysis will be carried out on to evaluate the schools' performance. These analysis will be used by the school district board to aid them in budgeting decisions
 
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results
 
 ### How is the district summary affected?
 Based on the results below, the district summary was not impacted.
@@ -35,6 +35,6 @@ As per below no impact has occurred due to the replacement.
 ![image6](/Results/6.png)
 
 
-# Summary
+## Summary
 After the comparison, the most evident change is in the school's individual summary, wherein the percentage passing of math, reading, and overall dropped significantly as we are omitting an the ninth grade's scores but considering the all students when calculating the percentages. This is then rectified by ommitting the count of grade nine students and the percentage passing is higher and more accurate as per below:
 ![image7](/Results/7.png)
